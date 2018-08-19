@@ -1,0 +1,46 @@
+{
+  "name": "react_music_player",
+  "version": "1.0.0",
+  "description": "Music Player Build by React",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "WebPack",
+    "NPM",
+    "Music Player"
+  ],
+  "author": "Puffy",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puffypuffy/React_Music_Player"
+  },
+  "dependencies": {
+    "pubsub-js": "^1.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-hot-loader": "^3.1.3",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "webpack": "^3.10.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^7.2.5",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-react-transform": "^3.0.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.9",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "html-webpack-plugin": "^2.30.1",
+    "json-loader": "^0.5.7",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "style-loader": "^0.19.1",
+    "webpack-dev-server": "^2.11.0"
+  }
+}
