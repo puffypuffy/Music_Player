@@ -3,7 +3,7 @@ Simple Music Player built with React
 
 ## Usage
 
-run `npm start` on root folder
+run `npm start`
 
 ## Demo
 
