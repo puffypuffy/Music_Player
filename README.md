@@ -1,7 +1,7 @@
 # Music_Player
 Simple Music Player built with React
 
-## Usage
+## Start Server
 
 run `npm start`
 
