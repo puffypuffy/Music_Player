@@ -2,8 +2,8 @@
 Simple Music Player built with React
 
 ## Start Server
-
-run `npm start`
+ 1. `npm install`
+ 2. `npm start`
 
 ## Demo
 
